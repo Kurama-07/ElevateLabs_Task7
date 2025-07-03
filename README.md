@@ -19,6 +19,7 @@ Usage examples demonstrating abstraction and security.
 ✅ Included view update tests and discussed WITH CHECK OPTION.
 
 🗂 Files Included
+
 views_task.sql (all SQL queries and view definitions)
 
 Output_Task7 (execution proofs)

@@ -1,17 +1,21 @@
 # ElevateLabs_Task7
 📄 SQL Developer Internship – Task 7: Creating Views
 🎯 Objective
+
 Learn to create and use views for abstraction, security, and reusable SQL logic.
 
 🛠 Tools
+
 DB Browser for SQLite / MySQL Workbench
 
 📌 Deliverables
+
 View definitions using CREATE VIEW with complex SELECT.
 
 Usage examples demonstrating abstraction and security.
 
 🧩 What I Did
+
 ✅ Created views using CREATE VIEW with joins and computed columns.
 ✅ Queried data through views for reusable logic and cleaner queries.
 ✅ Demonstrated abstraction to hide complex joins.
